@@ -18,6 +18,7 @@ public class App {
 		Reminder.saveReminder(sleepReminder);
 		System.out.println("git Test1");
 		System.out.println("git Test2");
+		System.out.println("First change after commit!"); 
 
 	}
 
